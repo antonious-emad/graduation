@@ -4,4 +4,3 @@ opencv_python_headless==4.10.0.84
 pandas==2.2.3
 scikit_learn==1.5.2
 streamlit==1.38.0
-gunicorn
